@@ -67,7 +67,7 @@
 					<Value>Lucida Console</Value>
 				</Property>
 				<Property Name="Size">
-					<Value>12</Value>
+					<Value>9</Value>
 				</Property>
 				<Property Name="Height">
 					<Value>16</Value>
@@ -88,7 +88,7 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="PointWidth">
-					<Value>9</Value>
+					<Value>7</Value>
 				</Property>
 				<Property Name="Width">
 					<Value>12</Value>
@@ -124,7 +124,7 @@
 					<Value>Lucida Console</Value>
 				</Property>
 				<Property Name="Size">
-					<Value>18</Value>
+					<Value>14</Value>
 				</Property>
 				<Property Name="Height">
 					<Value>24</Value>
@@ -145,7 +145,7 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="PointWidth">
-					<Value>12</Value>
+					<Value>9</Value>
 				</Property>
 				<Property Name="Width">
 					<Value>16</Value>
@@ -528,7 +528,7 @@
 					<Value>10079436</Value>
 				</Property>
 				<Property Name="BorderColor">
-					<Value>6723993</Value>
+					<Value>255</Value>
 				</Property>
 				<Property Name="KeyCode">
 					<Value>1</Value>
@@ -735,7 +735,7 @@
 					<Value>10079436</Value>
 				</Property>
 				<Property Name="BorderColor">
-					<Value>6723993</Value>
+					<Value>255</Value>
 				</Property>
 				<Property Name="KeyCode">
 					<Value>1</Value>
